@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#body{
+  
+  background-image: linear-gradient(45deg,#393939,#130689, #26ff0072);
+  height: 100vh;
+  width: 100vw;
+}
+
+
+#dados{
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+  
+  
+}
+
+#title{
+  color: #ffffff;
+  text-align: center;
+  font-size: 50px;
+}
+#click{
+  color: #000000;
+  background-color: chartreuse;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-left: 46%;
+
+}
